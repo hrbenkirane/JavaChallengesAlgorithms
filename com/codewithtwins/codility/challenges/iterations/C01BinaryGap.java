@@ -1,4 +1,4 @@
-package com.codewithtwins.codility.challenges;
+package com.codewithtwins.codility.challenges.iterations;
 
 public class C01BinaryGap {
 

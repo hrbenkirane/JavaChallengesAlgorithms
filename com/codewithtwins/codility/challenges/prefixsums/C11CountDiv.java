@@ -1,4 +1,4 @@
-package com.codewithtwins.codility.challenges;
+package com.codewithtwins.codility.challenges.prefixsums;
 
 // given three integers, A, B and K returns the number of integers within the range [A..B] that are divisible by K
 public class C11CountDiv {

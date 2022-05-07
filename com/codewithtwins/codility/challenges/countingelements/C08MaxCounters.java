@@ -1,4 +1,4 @@
-package com.codewithtwins.codility.challenges;
+package com.codewithtwins.codility.challenges.countingelements;
 
 public class C08MaxCounters {
 

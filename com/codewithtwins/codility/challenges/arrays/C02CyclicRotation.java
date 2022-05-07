@@ -1,4 +1,4 @@
-package com.codewithtwins.codility.challenges;
+package com.codewithtwins.codility.challenges.arrays;
 
 public class C02CyclicRotation {
     public int[] solution(int [] A, int K) {

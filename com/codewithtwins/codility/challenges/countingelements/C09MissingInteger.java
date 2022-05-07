@@ -1,4 +1,4 @@
-package com.codewithtwins.codility.challenges;
+package com.codewithtwins.codility.challenges.countingelements;
 
 // Given an array A of N integers, returns the smallest positive integer that does not occur in A
 // for examples given A=[1,3,6,4,1,2] the function should return 5

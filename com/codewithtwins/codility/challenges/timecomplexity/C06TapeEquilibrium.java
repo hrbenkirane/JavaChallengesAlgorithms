@@ -1,4 +1,4 @@
-package com.codewithtwins.codility.challenges;
+package com.codewithtwins.codility.challenges.timecomplexity;
 
 public class C06TapeEquilibrium {
     public int solution(int[] A) {

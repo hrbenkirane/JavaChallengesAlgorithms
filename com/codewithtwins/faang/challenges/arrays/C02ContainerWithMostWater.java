@@ -1,4 +1,4 @@
-package com.codewithtwins.faang.challenges;
+package com.codewithtwins.faang.challenges.arrays;
 
 public class C02ContainerWithMostWater {
 

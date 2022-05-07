@@ -1,4 +1,4 @@
-package com.codewithtwins.codility.challenges;
+package com.codewithtwins.codility.challenges.timecomplexity;
 
 public class C04FrogJmp {
     public int solution(int x, int y, int D) {

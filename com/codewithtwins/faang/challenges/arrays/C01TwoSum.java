@@ -1,6 +1,4 @@
-package com.codewithtwins.faang.challenges;
-
-import org.w3c.dom.ls.LSOutput;
+package com.codewithtwins.faang.challenges.arrays;
 
 import java.util.HashMap;
 

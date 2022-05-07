@@ -1,4 +1,4 @@
-package com.codewithtwins.codility.challenges;
+package com.codewithtwins.codility.challenges.prefixsums;
 
 public class C13MinAvgTwoSlice {
     public int solution(int[] A) {
