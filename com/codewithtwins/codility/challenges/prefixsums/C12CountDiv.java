@@ -1,7 +1,7 @@
 package com.codewithtwins.codility.challenges.prefixsums;
 
 // given three integers, A, B and K returns the number of integers within the range [A..B] that are divisible by K
-public class C11CountDiv {
+public class C12CountDiv {
     public int solution(int A, int B, int K) {
         int base = (int) Math.ceil((double)A/K);
         base = base * K;
@@ -13,7 +13,7 @@ public class C11CountDiv {
     }
 
     public static void main(String[] args) {
-        C11CountDiv cd = new C11CountDiv();
+        C12CountDiv cd = new C12CountDiv();
         System.out.println(cd.solution(6, 11, 1));
     }
 }

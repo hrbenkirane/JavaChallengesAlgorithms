@@ -2,7 +2,7 @@ package com.codewithtwins.codility.challenges.countingelements;
 
 import java.util.HashSet;
 
-public class C10PermCheck {
+public class C08PermCheck {
 
     public int solution(int[] A) {
         HashSet<Integer> nums = new HashSet<>();
@@ -20,7 +20,7 @@ public class C10PermCheck {
     }
 
     public static void main(String[] args) {
-        System.out.println(new C10PermCheck().solution(new int[] { 4, 1, 3, 2}));
-        System.out.println(new C10PermCheck().solution(new int[] { 1 }));
+        System.out.println(new C08PermCheck().solution(new int[] { 4, 1, 3, 2}));
+        System.out.println(new C08PermCheck().solution(new int[] { 1 }));
     }
 }

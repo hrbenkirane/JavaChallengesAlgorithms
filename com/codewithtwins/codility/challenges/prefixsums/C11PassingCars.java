@@ -1,6 +1,6 @@
 package com.codewithtwins.codility.challenges.prefixsums;
 
-public class C14PassingCars {
+public class C11PassingCars {
 
     public int solution(int[] A) {
         int eastBoundCarsSeen = 0;
@@ -21,7 +21,7 @@ public class C14PassingCars {
     }
 
     public static void main(String[] args) {
-        C14PassingCars pc = new C14PassingCars();
+        C11PassingCars pc = new C11PassingCars();
         System.out.println(pc.solution(new int[]{0, 1, 0, 1, 1}));
     }
 }

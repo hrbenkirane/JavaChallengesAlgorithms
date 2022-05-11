@@ -1,10 +1,8 @@
 package com.codewithtwins.faang.challenges.strings;
 
-import java.nio.charset.StandardCharsets;
-import java.util.ArrayList;
+
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.List;
 
 public class C05LongestSubstringWithoutRepeatingChar {
 

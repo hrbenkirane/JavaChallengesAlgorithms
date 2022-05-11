@@ -1,6 +1,6 @@
 package com.codewithtwins.codility.challenges.maxsliceproblem;
 
-public class C26MaxProfit {
+public class C25MaxProfit {
 
     public int solution(int[] A) {
         int maxProfit = 0;
@@ -27,7 +27,7 @@ public class C26MaxProfit {
     }
 
     public static void main(String[] args) {
-        System.out.println(new C26MaxProfit().solution(new int[] {
+        System.out.println(new C25MaxProfit().solution(new int[] {
                 23171, 21011, 21123, 21366, 21013, 21367
         }));
     }

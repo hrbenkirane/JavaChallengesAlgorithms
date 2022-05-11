@@ -9,7 +9,7 @@ public class C03OddOccurencesinArray {
         for (int i = 0; i < A.length; i++) {
             int a = A[i];
             if(aList.contains(a)) {
-                aList.remove(new Integer(a));
+                aList.remove(Integer.valueOf(a));
             } else {
                 aList.add(a);
             }

@@ -1,6 +1,6 @@
 package com.codewithtwins.codility.challenges.maxsliceproblem;
 
-public class C27MaxSliceSum {
+public class C26MaxSliceSum {
 
     public int solution(int[] A) {
         long sum = Integer.MIN_VALUE;
@@ -16,6 +16,6 @@ public class C27MaxSliceSum {
     }
 
     public static void main(String[] args) {
-        System.out.println(new C27MaxSliceSum().solution(new int[] {3, 2, -6, 4, 0}));
+        System.out.println(new C26MaxSliceSum().solution(new int[] {3, 2, -6, 4, 0}));
     }
 }

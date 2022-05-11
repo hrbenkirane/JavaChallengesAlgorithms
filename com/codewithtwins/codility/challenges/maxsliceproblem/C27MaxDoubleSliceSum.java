@@ -1,6 +1,6 @@
 package com.codewithtwins.codility.challenges.maxsliceproblem;
 
-public class C25MaxDoubleSliceSum {
+public class C27MaxDoubleSliceSum {
     public int solution(int[] A) {
         int[] s = new int[A.length];
         int[] e = new int[A.length];
@@ -26,6 +26,6 @@ public class C25MaxDoubleSliceSum {
     }
 
     public static void main(String[] args) {
-        System.out.println(new C25MaxDoubleSliceSum().solution(new int[] {0, 10, -5, -2, 0}));
+        System.out.println(new C27MaxDoubleSliceSum().solution(new int[] {0, 10, -5, -2, 0}));
     }
 }

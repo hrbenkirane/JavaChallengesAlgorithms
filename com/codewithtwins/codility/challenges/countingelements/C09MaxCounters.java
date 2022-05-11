@@ -1,6 +1,6 @@
 package com.codewithtwins.codility.challenges.countingelements;
 
-public class C08MaxCounters {
+public class C09MaxCounters {
 
     public int[] solution(int N, int[] A) {
 
@@ -31,7 +31,7 @@ public class C08MaxCounters {
     }
 
     public static void main(String[] args) {
-        C08MaxCounters mc = new C08MaxCounters();
+        C09MaxCounters mc = new C09MaxCounters();
         int[] result = mc.solution(5, new int[] {3,4,4,6,1,4,4});
         for (int i : result) {
             System.out.println(i);

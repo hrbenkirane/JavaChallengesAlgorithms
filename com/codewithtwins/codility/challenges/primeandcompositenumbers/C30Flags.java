@@ -3,7 +3,7 @@ package com.codewithtwins.codility.challenges.primeandcompositenumbers;
 import java.util.ArrayList;
 import java.util.List;
 
-public class C29Flags {
+public class C30Flags {
 
     public int solution(int[] A) {
         List<Integer> peaks = new ArrayList<>();
@@ -52,7 +52,7 @@ public class C29Flags {
     }
 
     public static void main(String[] args) {
-        System.out.println(new C29Flags().solution(new int[] {
+        System.out.println(new C30Flags().solution(new int[] {
                 1,
                 5,
                 3,

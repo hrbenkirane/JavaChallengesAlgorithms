@@ -1,6 +1,6 @@
 package com.codewithtwins.codility.challenges.primeandcompositenumbers;
 
-public class C30MinPerimeterRectangle {
+public class C29MinPerimeterRectangle {
     public int solution(int N) {
         for (int i = (int)Math.ceil(Math.sqrt(N)); i >=1 ; i--) {
             if(((double)N/i) % 1 == 0) {
@@ -12,6 +12,6 @@ public class C30MinPerimeterRectangle {
     }
 
     public static void main(String[] args) {
-        System.out.println(new C30MinPerimeterRectangle().solution(30));
+        System.out.println(new C29MinPerimeterRectangle().solution(30));
     }
 }

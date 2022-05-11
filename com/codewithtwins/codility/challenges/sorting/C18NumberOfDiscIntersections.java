@@ -1,6 +1,6 @@
 package com.codewithtwins.codility.challenges.sorting;
 
-public class C17NumberOfDiscIntersections {
+public class C18NumberOfDiscIntersections {
 
     public int solution(int[] A) {
         int[] starts = new int[A.length];
@@ -36,6 +36,6 @@ public class C17NumberOfDiscIntersections {
     }
 
     public static void main(String[] args) {
-        System.out.println(new C17NumberOfDiscIntersections().solution(new int[] {1, 5, 2, 1, 4, 0}));
+        System.out.println(new C18NumberOfDiscIntersections().solution(new int[] {1, 5, 2, 1, 4, 0}));
     }
 }
